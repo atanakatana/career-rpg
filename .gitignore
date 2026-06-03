@@ -1,6 +1,6 @@
 # Python
 .venv/
-__pycache_/
+__pycache__/
 *.py[cod]
 *.egg-info/
 .env
